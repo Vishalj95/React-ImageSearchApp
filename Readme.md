@@ -1,4 +1,4 @@
-get your API key from [pixabay.com](www.pixabay.com) and 
+get your API key from [pixabay.com](https://pixabay.com/) and 
 place in components/search/search.js file at line number 14.
 
 # Features!
